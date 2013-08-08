@@ -4,3 +4,6 @@ SUPERUSER_PACKAGE := com.ftl.superuser
 PRODUCT_COPY_FILES += \
     vendor/FTL/prebuilt/bootanimation.zip:system/media/bootanimation.zip \
     vendor/FTL/prebuilt/gps.conf:system/etc/gps.conf
+
+# Superuser
+SUPERUSER_PACKAGE := com.ftl.superuser
